@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":5,"animationId":1,"description":"內容為自主學習的魔法知識，必要時拿來打擊","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":140,"name":"手寫筆記本","note":"","params":[0,0,3,0,0,0,0,0],"price":100,"wtypeId":13},
+{"id":6,"animationId":151,"description":"學習魔法最初階入門手冊，可使用小型火焰","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0},{"code":54,"dataId":2,"value":1}],"iconIndex":621,"name":"初階魔法書","note":"","params":[0,0,5,0,5,0,0,0],"price":500,"wtypeId":13},
+{"id":7,"animationId":6,"description":"家居必備的水果刀。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.04},{"code":22,"dataId":2,"value":0.03},{"code":22,"dataId":1,"value":0.03}],"iconIndex":150,"name":"水果刀","note":"","params":[0,0,3,0,0,0,0,0],"price":100,"wtypeId":1},
+{"id":8,"animationId":6,"description":"刀身寬廣，戰鬥用短刀。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.04},{"code":22,"dataId":2,"value":0.03},{"code":22,"dataId":1,"value":0.04}],"iconIndex":368,"name":"短刃戰刀","note":"","params":[0,0,7,0,0,0,0,0],"price":500,"wtypeId":1}
+]
