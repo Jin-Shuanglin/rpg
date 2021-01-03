@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor6-1","characterIndex":2,"characterName":"Actor4","classId":5,"equips":[8,8,8,7,0],"faceIndex":0,"faceName":"Actor6-1","traits":[],"initialLevel":5,"maxLevel":15,"name":"歐爾佳","nickname":"","note":"","profile":"出生於海盜之島\n因個人因素現在生活於精靈王國"},
+{"id":6,"battlerName":"Actor4","characterIndex":0,"characterName":"Actor4","classId":6,"equips":[6,0,8,7,0],"faceIndex":0,"faceName":"Actor4","traits":[],"initialLevel":5,"maxLevel":15,"name":"黎克","nickname":"","note":"","profile":"出生於精靈族\n覺得人類愚蠢卻又很有意思"}
+]

@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":5,"atypeId":1,"description":"經得起日曬雨淋的萬用服。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":417,"name":"冒險者套裝","note":"","params":[0,0,0,10,0,0,0,0],"price":2000},
+{"id":6,"atypeId":1,"description":"用人造皮造的帽子。","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":162,"name":"皮帽","note":"","params":[0,0,0,4,0,0,0,0],"price":100},
+{"id":7,"atypeId":1,"description":"透氣性高的服裝。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":168,"name":"休閒裝","note":"","params":[0,0,0,1,0,0,0,0],"price":100},
+{"id":8,"atypeId":1,"description":"布製的頭帶，可在頭帶上寫字。","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":447,"name":"頭帶","note":"","params":[0,0,0,1,0,0,0,0],"price":100}
+]
